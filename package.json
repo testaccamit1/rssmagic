@@ -1,0 +1,23 @@
+{
+  "name": "rssmagic",
+  "version": "0.0.0",
+  "description": "RSS mobile app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/testaccamit1/rssmagic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testaccamit1/rssmagic/issues"
+  },
+  "homepage": "https://github.com/testaccamit1/rssmagic",
+  "private": true,
+  "dependencies": {
+    "express": "^4.4.5"
+  }
+}
